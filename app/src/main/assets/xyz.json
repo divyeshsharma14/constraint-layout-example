@@ -1,0 +1,8 @@
+{
+  "section":"EXPERIENCE",
+  "jobs": [{"role":"Barista and Bartender", "job":"Bartender at O2 Academy", "dates":"from 30/10/2016 till present"},
+           {"role":"Waiter and Retail", "job":"Waitress at Chacombe park", "dates":"from 20/05/2014 to 29/06/2018"},
+           {"role":"Waiter and Retail", "job":"Waitress at the New Inn pub", "dates":"from 29/09/2013 to 29/04/2015"},
+		   {"role":"Barista and Bartender", "job":"Bartender at O2 Academy", "dates":"from 30/10/2016 till present"},
+		   {"role":"Barista and Bartender", "job":"Bartender at O2 Academy", "dates":"from 30/10/2016 till present"}]
+}
